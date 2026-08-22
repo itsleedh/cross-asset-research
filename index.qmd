@@ -26,8 +26,6 @@ The central conclusion is deliberately narrower than the simple "Japan is sellin
 
 Goldman, Morgan stanley, IMF 랑 비교했을 땐 좀 아쉽지만, 공개 보고서에서 explicit causal structure로 보여주는 경우는 많지 않으니 실제 투자엔 제 모델이 조금 더 유용하겠네요 ㅎㅎ
 
-보고서 풀 버전 읽고 그래서 뭐 사야해? 라고 물으신다면 주식을 그냥 홀짝으로 하는 것과 같으니 아무거나 사셔도 됩니다. 저는 제 보고서대로 옵션을 땡겨보겠습니다
-
 p.s 보고서 넣고 llm한테 리뷰해달라고 하면 위에서 서술한 내용 나옵니다. 이미 제가 많이 돌려봤으니 다들 토큰 아끼세요^^(+투자의 책임은 투자자 본인에게 있습니다)
 
 ---
