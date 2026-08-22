@@ -1,0 +1,40 @@
+---
+title: "Independent Research Notes"
+subtitle: "Macro · Markets · Quantitative Finance"
+page-layout: full
+---
+
+## Current flagship research
+
+### U.S. Long-Term Rates, Japanese Capital Flows, and Nasdaq · KRW · KOSPI
+
+**As of 2026-08-22**
+
+A cross-asset research note on the decomposition of U.S. long-term yields, Japan's role in Treasury demand, policy-reaction feedback, and the transmission to Nasdaq, KRW, KOSPI, and long-duration bonds.
+
+The central conclusion is deliberately narrower than the simple "Japan is selling Treasuries" narrative: current evidence does not support a large Japanese fire sale or a structurally absent Japanese buyer. Japan is better treated as an **intermittent, sector-dependent marginal buyer** that could become a nonlinear amplifier if institutional selling synchronizes with U.S. fiscal and long-end stress.
+
+## 덧붙이는 말
+
+인스타 보다가 주어진 상황을 가지고 시장을 예측하고, 사람들의 흥미를 유발하는 뉴스들이 많아서 과연 진짜일까? 하고 검증해보려고 조사해 봤습니다.
+리서치 방향이나 시나리오는 제가 정했고, 조사와 세부 사항은 생성형 ai를 사용해 작업했습니다.
+개인적으로 주식시장은 경제지표 자체보다 정책변수와 정책당국의 reaction function에 크게 좌우되는 구간이 있다고 생각해서, Trump 행정부의 정책반응과 high-temperature scenario에 특히 집중했습니다.
+다만, quant model도 몇 개 붙여봤는데, 이 부분은 empirical calibration이나 identification 측면에서 전문기관 모델에 비하면 확실히 아쉽습니다.
+Goldman, Morgan stanley, IMF 랑 비교했을 땐 좀 아쉽지만, 공개 보고서에서 explicit causal structure로 보여주는 경우는 많지 않으니 실제 투자엔 제 모델이 조금 더 유용하겠네요 ㅎㅎ
+
+보고서 풀 버전 읽고 그래서 뭐 사야해? 라고 물으신다면 주식을 그냥 홀짝으로 하는 것과 같으니 아무거나 사셔도 됩니다. 저는 제 보고서대로 옵션을 땡겨보겠습니다
+
+p.s 보고서 넣고 llm한테 리뷰해달라고 하면 위에서 서술한 내용 나옵니다. 이미 제가 많이 돌려봤으니 다들 토큰 아끼세요^^(+투자의 책임은 투자자 본인에게 있습니다)
+
+---
+
+[Read the research summary](posts/2026-08-us-rates-japan-flows/index.qmd){.btn .btn-primary}
+
+[Download the full report (PDF)](reports/us-rates-japan-flows-nasdaq-krw-kospi-2026-08-22.pdf){.btn .btn-outline-secondary}
+
+## Research principles
+
+- Separate **observations, model outputs, and stress assumptions**.
+- Prefer falsifiable causal stories over narrative fit.
+- Treat scenario weights and price ranges as decision tools, not statistical certainty.
+- Update views when signposts change rather than defending the original thesis.
