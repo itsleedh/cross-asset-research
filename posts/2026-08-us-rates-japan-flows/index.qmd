@@ -10,7 +10,7 @@ toc: true
 ::: {.callout-note title="Status"}
 **Reference date:** 2026-08-22  
 **Format:** Research summary + full long-form report  
-**Full report:** [DOCX](../../reports/us-rates-japan-flows-nasdaq-krw-kospi-2026-08-22.docx)
+**Full report:** [PDF](../../reports/us-rates-japan-flows-nasdaq-krw-kospi-2026-08-22.pdf)
 :::
 
 ## Thesis in one minute
@@ -62,6 +62,6 @@ The report's scenario price ranges are **conditional model ranges, not confidenc
 
 ## Full report
 
-[Download the full 2026-08-22 report](../../reports/us-rates-japan-flows-nasdaq-krw-kospi-2026-08-22.docx){.btn .btn-primary}
+[Download the full 2026-08-22 report](../../reports/us-rates-japan-flows-nasdaq-krw-kospi-2026-08-22.pdf){.btn .btn-primary}
 
 Future revisions should preserve the original dated version and publish material thesis changes as new dated notes rather than silently overwriting the research history.
