@@ -1,0 +1,23 @@
+:root {
+  --content-max-width: 980px;
+}
+
+main.content {
+  max-width: var(--content-max-width);
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.02em;
+}
+
+.quarto-title .subtitle {
+  opacity: 0.75;
+}
+
+table {
+  font-size: 0.95rem;
+}
+
+.callout {
+  border-radius: 0.5rem;
+}

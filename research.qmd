@@ -1,0 +1,12 @@
+---
+title: "Research"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: table
+  fields: [date, title, description, categories]
+  filter-ui: true
+  sort-ui: true
+---
+
+This page is the canonical archive for long-form research notes. Each entry should contain a short thesis, decision-relevant signposts, the full report, and—where practical—data or methodology notes.

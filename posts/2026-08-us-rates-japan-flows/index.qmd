@@ -1,0 +1,67 @@
+---
+title: "U.S. Long-Term Rates, Japanese Capital Flows, and Nasdaq · KRW · KOSPI"
+date: 2026-08-22
+description: "A cross-asset framework for U.S. long-end yields, Japanese marginal demand, policy feedback, and transmission to U.S. and Korean risk assets."
+categories: [Macro, Rates, Japan, Nasdaq, KRW, KOSPI]
+author: "Independent Research"
+toc: true
+---
+
+::: {.callout-note title="Status"}
+**Reference date:** 2026-08-22  
+**Format:** Research summary + full long-form report  
+**Full report:** [DOCX](../../reports/us-rates-japan-flows-nasdaq-krw-kospi-2026-08-22.docx)
+:::
+
+## Thesis in one minute
+
+The high absolute level of U.S. long-term yields is better explained by a combination of **high real yields, a still-high expected policy-rate path, and structural fiscal risk** than by a single Japan-driven selloff story.
+
+Japanese demand matters, but the public evidence does **not** currently support either a large Treasury fire sale or a structurally vanished Japanese buyer. The stronger working thesis is that Japan has become an **intermittent and sector-dependent marginal buyer**. Its importance rises nonlinearly if banks, insurers, and trust/pension-like accounts begin selling foreign bonds in synchronization while U.S. long-end market stress is already elevated.
+
+The more interesting tail is therefore a policy-interaction problem: **fragmented financial-stability backstops + mandate-constrained central banks**. Treasury, the White House, Japan's MOF, the BOJ, and the Fed can each respond rationally to different mandates while jointly creating second-order instability.
+
+## Key findings
+
+1. **Recent U.S. yield changes should not be collapsed into a term-premium selloff.** Over the key late-July to August window, front-end easing, lower real yields, renewed breakeven pressure, and short episodes of long-end stress coexisted.
+2. **Japan is not currently a clean high-frequency lead variable for UST yields.** The stronger evidence supports a state-dependent portfolio-demand channel rather than a stable JGB → UST beta.
+3. **Treasury demand has not disappeared.** Recent auction evidence is more consistent with price-sensitive clearing at higher yields than with a buyer strike.
+4. **Nasdaq's main tail is joint deterioration in real yields and earnings revisions.** Rate pressure alone is not enough to characterize the downside.
+5. **KOSPI's key convexity is semiconductor earnings concentration, not headline P/E.** The relevant question is how much memory-cycle normalization can be offset by structural rerating.
+6. **For a KRW investor, unhedged Nasdaq is a joint equity + USD/KRW position.** Conventional risk-off can make the dollar a hedge; a U.S.-credibility shock can remove that protection.
+7. **30Y Treasuries are not a universal hedge.** In a fiscal/policy shock, duration itself can become a primary source of loss.
+
+## Evidence-weighted operating view
+
+The report separates an evidence-weighted house view from a deliberately high-temperature stress lens.
+
+| Scenario | Operating weight | Interpretation |
+|---|---:|---|
+| Base | 60% | Fragile equilibrium: high real rates and fiscal premium, but functioning markets |
+| Contrarian Stabilization | 25% | Lower real yields, resilient earnings, stable Japan flows |
+| Policy Feedback | 15% | Long-end stress, policy conflict, and cross-asset spillover |
+| Regime Break | 12m+ tail | QE/YCC-like or institutional-policy break; excluded from the 1–3m probability sum |
+
+These are **rule-based subjective operating weights**, not statistically estimated posterior probabilities.
+
+## What would change the view?
+
+The Policy Feedback thesis should be upgraded only if several conditions begin to cluster: persistent US30Y stress, worsening auction/liquidity conditions, real-yield or term-premium increases that run against easier Fed expectations, synchronized Japanese foreign-bond selling, short-lived Treasury intervention effects, and USD or credit stress.
+
+The main contrarian signal is the opposite combination: BOJ tightening with a stable JGB long end, continued Japanese foreign-bond buying, falling U.S. real yields, and renewed AI earnings strength.
+
+## Asset implications
+
+The report's scenario price ranges are **conditional model ranges, not confidence intervals**. They are generated from explicit earnings, yield, FX, and valuation inputs.
+
+- **Nasdaq:** biggest downside when real yields rise while forward earnings are revised down.
+- **KRW-unhedged Nasdaq:** worst U.S.-specific tail is equity down + USD down.
+- **KOSPI:** the headline multiple can be misleading if current memory earnings are near a cyclical peak.
+- **UST30:** strong hedge in some growth/disinflation regimes; vulnerable in fiscal/policy-feedback regimes.
+- **KTB:** shares global duration risk but retains Korea-specific support channels.
+
+## Full report
+
+[Download the full 2026-08-22 report](../../reports/us-rates-japan-flows-nasdaq-krw-kospi-2026-08-22.docx){.btn .btn-primary}
+
+Future revisions should preserve the original dated version and publish material thesis changes as new dated notes rather than silently overwriting the research history.

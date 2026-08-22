@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Independent Research Notes"
+  description: "Macro, markets, quantitative finance, and research notes."
+  site-url: "https://itsleedh.github.io/cross-asset-research"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: "https://github.com/itsleedh/cross-asset-research"
+      - icon: linkedin
+        href: "www.linkedin.com/in/dohyanglee"
+  page-footer:
+    left: "Independent research. Not investment advice."
+    right: "Built with Quarto · Hosted on GitHub Pages"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true
+    code-copy: true
+    link-external-newwindow: true
+    css: assets/styles.css
+
+execute:
+  freeze: auto
+
+bibliography: references.bib

@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+This site is an independent archive for research on macroeconomics, markets, quantitative finance, and related technical work.
+
+The goal is not to imitate sell-side formatting. The emphasis is on transparent assumptions, explicit falsification conditions, reproducible calculations where possible, and a clear separation between evidence-weighted views and exploratory stress scenarios.
+
+## Disclaimer
+
+Nothing on this site is investment advice, a recommendation, or an offer to buy or sell any security. Views are research opinions based on information available at the stated reference date and may change as new evidence appears.
