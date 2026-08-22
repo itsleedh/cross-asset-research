@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Independent Research Notes"
+  title: "Research Notes"
   description: "Macro, markets, quantitative finance, and research notes."
   site-url: "https://itsleedh.github.io/cross-asset-research"
   navbar:
